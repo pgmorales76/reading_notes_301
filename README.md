@@ -1,4 +1,4 @@
-### Hey, everyone! My name is Peter (it/its). I’m very excited for my junior year at Code Fellows
+### Hey, everyone! My name is Peter (it/its). I’m very excited for my junior year at Code Fellows!
 
 ![Computer screen](/images/code_201_readme.jpg)
 
