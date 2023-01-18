@@ -50,7 +50,7 @@
 
     x===y ? console.log(true) : console.log(false)
 
-[The Conditional (Ternary) Operator Explained](<https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff>)
+[The Conditional (Ternary) Operator Explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
 
 [React Boostrap - Forms](https://react-bootstrap.github.io/forms/overview/)
 
