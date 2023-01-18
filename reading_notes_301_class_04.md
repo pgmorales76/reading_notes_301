@@ -1,8 +1,8 @@
 [Home](https://pgmorales76.github.io/reading_notes_301/)
 
-# Class 01 Reading Notes
+# Class 04 Reading Notes
 
-##
+## Why This Topic Matters
 
 ## **
 

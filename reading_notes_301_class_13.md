@@ -1,6 +1,6 @@
 [Home](https://pgmorales76.github.io/reading_notes_301/)
 
-# Class 10 Reading Notes
+# Class 13 Reading Notes
 
 ## Why This Topic Matters
 
