@@ -48,7 +48,9 @@
 
 ## *In your experience, which of these reasons have you found most beneficial?*
 
-### I would say the first three have been most beneficial to me because I've never had a job interview for software development, let alone being in a work environment that involved software development.
+### I would say the first three have been most beneficial to me because I've never had a job interview for software development, let alone being in a work environment that involved software development
+
+### Also, I fancy myself as having good "social skills", already. However, some would disagree with that sentiment
 
 ## *How does pair programming work?*
 
