@@ -6,7 +6,7 @@
 
 ### 
 
-## Reading
+## **Reading**
 
 ## *Based off the diagram, what happens first, the ‘`render`’ or the ‘`componentDidMount`’?*
 
@@ -26,7 +26,7 @@
 
 [React Lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 
-## Videos
+## **Videos**
 
 ## *What types of things can you pass in the props?*
 
@@ -46,7 +46,7 @@
 
 [React State versus Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 
-## Bookmark and Review
+## **Bookmark and Review**
 
 [React Docs - State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 
