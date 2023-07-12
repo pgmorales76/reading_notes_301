@@ -8,7 +8,19 @@
 
 ## Reading
 
-## *Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?*
+## *Based off the diagram, what happens first, the ‘`render`’ or the ‘`componentDidMount`’?*
+
+###
+
+## *What is the very first thing to happen in the lifecycle of React?*
+
+### 
+
+## *Put the following things in the order that they happen: `componentDidMount`, `render`, `constructor` , `componentWillUnmount`, `React Updates`.*
+
+###
+
+## *What does `componentDidMount` do?*
 
 ###
 
@@ -16,15 +28,23 @@
 
 ## Videos
 
-##
+## *What types of things can you pass in the props?*
 
 ###
 
-[React State vs. Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
-
-## Things I Want to Know More About
+## *What is the big difference between props and state?*
 
 ###
+
+## *When do we re-render our application?*
+
+###
+
+## *What are some examples of things that we could store in state?*
+
+###
+
+[React State versus Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 
 ## Bookmark and Review
 
@@ -41,3 +61,7 @@
 [Bootstrap Shuffle - A Class Sandbox](https://bootstrapshuffle.com/classes)
 
 [Netlifly](https://www.netlify.com/)
+
+## Things I Want to Know More About
+
+###
