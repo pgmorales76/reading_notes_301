@@ -4,7 +4,9 @@
 
 ## Why This Topic Matters
 
-### 
+### Understanding the life cycle of a React app is key to being able to writing, delivering, and troubleshooting your app
+
+### Understanding the difference between State and Props will enable a developer to 
 
 ## **Reading**
 
@@ -30,19 +32,21 @@
 
 ## *What types of things can you pass in the props?*
 
-###
+### Things you pass to a function, what you want to initialize a component to, or, what you want your component to render like, or data that is static.
 
 ## *What is the big difference between props and state?*
 
-###
+### You can think of props as arguments to a function. Props you pass into a component. Props are handled outside a component
+
+### State is something inside a component. State is handled within the component. Think of it as the component's "state of affairs". What is stored in state is dynamic, rather than static, data
 
 ## *When do we re-render our application?*
 
-###
+### When your props are different, or, when you change the state inside of your application
 
 ## *What are some examples of things that we could store in state?*
 
-###
+### Storing what you need to be updating, such as a counter. Storing input data from a user
 
 [React State versus Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 
@@ -64,4 +68,6 @@
 
 ## Things I Want to Know More About
 
-###
+### Is there ever an instance where state is handled outside the component? Is there ever an instance where props are handled within the component?
+
+### Do modern apps ever not have state? Do they ever not have props?
