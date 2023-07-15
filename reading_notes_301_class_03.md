@@ -6,7 +6,7 @@
 
 ###
 
-## Reading
+## **Reading**
 
 ## *What does .map() return?*
 
@@ -48,7 +48,7 @@
 
 [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
 
-## Videos
+## **Videos**
 
 ## *In the video, what is the first step that the developer does to pass functions between components?*
 
@@ -68,7 +68,7 @@
 
 [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
-## Bookmark and Review
+## **Bookmark and Review**
 
 [React Tutorial through ‘Declaring a Winner’](https://reactjs.org/tutorial/tutorial.html)
 
