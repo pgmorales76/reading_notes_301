@@ -10,41 +10,58 @@
 
 ## *What does .map() return?*
 
-###
+### A new array with the results of a callback function, iterated on each element, from the original array
 
 ## *If I want to loop through an array and display each value in JSX, how do I do that in React?*
 
-###
+### Embed an expression in curly braces
 
 ## *Each list item needs a unique ____.*
 
-###
+### key
 
 ## *What is the purpose of a key?*
 
-###
+### They help React identify items which have changed, added, or, removed
 
 [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html).
 
 ## *What is the spread operator?*
 
-###
+### An operator which allows an array to be expanded. The spread operator "spreads" an array into separate arguments
 
 ## *List 4 things that the spread operator can do.*
 
-###
+### Copying an array; using math functions; adding an item to a list; and, adding to state in React
 
 ## *Give an example of using the spread operator to combine two arrays.*
 
-###
+    let arr1 = [0, 1, 2];
+    let arr2 = [3, 5, 7];
+    let primes = [...arr1, ...arr2];
+
+    // > [0, 1, 2, 3, 5, 7]
+
+[Spread Syntax](https://howchoo.com/javascript/how-to-merge-two-arrays-in-javascript#spread-syntax)
 
 ## *Give an example of using the spread operator to add a new item to an array.*
 
-###
+    const fewFruit = ['🍏','🍊','🍌']
+    const fewMoreFruit = ['🍉', '🍍', ...fewFruit]
+    console.log(fewMoreFruit) //  Array(5) [ "🍉", "🍍", "🍏", "🍊", "🍌" ]
+
+[Adding an item to a list](https://gist.githubusercontent.com/djD-REK/fe282feb0b84a5f1a50fd0b2e7e5510e/raw/4f291907917d3cbd9cbfcd000a218dbda4f18274/Adding%20an%20item%20to%20a%20list.js)
 
 ## *Give an example of using the spread operator to combine two objects into one.*
 
-###
+    const objectOne = {hello: "🤪"}
+    const objectTwo = {world: "🐻"}
+    const objectThree = {...objectOne, ...objectTwo, laugh: "😂"}
+    console.log(objectThree) // Object { hello: "🤪", world: "🐻", laugh: "😂" }
+    const objectFour = {...objectOne, ...objectTwo, laugh: () => {console.log("😂".repeat(5))}}
+    objectFour.laugh() // 😂😂😂😂😂
+
+[Combining objects](https://gist.githubusercontent.com/djD-REK/1995aa70063ce1cadc126ae523626e19/raw/4823db5f5f893af1848c03804f832340dd750fe0/Combining%20object%20properties%20and%20methods%20with%20spread%20operator.js)
 
 [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
 
