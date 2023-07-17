@@ -69,19 +69,19 @@
 
 ## *In the video, what is the first step that the developer does to pass functions between components?*
 
-###
+### Using the `this` keyword
 
 ## *In your own words, what does the `increment` function do?*
 
-###
+### It increments the count property for the particular object that's clicked
 
 ## *How can you pass a method from a parent component into a child component?*
 
-###
+### With a prop passing a function
 
 ## *How does the child component invoke a method that was passed to it from a parent component?*
 
-###
+### Using a callback function from the parents component and using an argument value as a prop 
 
 [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
