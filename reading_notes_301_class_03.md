@@ -4,7 +4,9 @@
 
 ## Why This Topic Matters
 
-###
+### Being able to, seemlessly, have your components connected will allow your app to run smoothly, and allow for easier troubleshooting
+
+### A well-made component family tree makes creating more complicated apps less difficult
 
 ## **Reading**
 
@@ -81,7 +83,7 @@
 
 ## *How does the child component invoke a method that was passed to it from a parent component?*
 
-### Using a callback function from the parents component and using an argument value as a prop 
+### Using a callback function from the parent component and using an argument value as a prop 
 
 [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
@@ -93,4 +95,4 @@
 
 ## Things I Want to Know More About
 
-###
+### How many "generations" in a component family tree are there, generally? 
