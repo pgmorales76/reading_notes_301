@@ -4,7 +4,7 @@
 
 ## Why This Topic Matters
 
-### Juat like in HTML, forms are important interactive function for websites
+### Just like in HTML, forms are important interactive function for websites
 
 ### In React, we learn a more efficient way of building forms with JSX, rather than with vanilla HTML
 
