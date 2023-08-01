@@ -8,23 +8,29 @@
 
 ## *What is the `single responsibility principle` and how does it apply to components?*
 
-###
+### A component should, ideally, only be responsible for one aspect of your application. If it grows to multiple responsibilities, it should be decomposed into multiple components
 
 ## *What does it mean to build a ‘static’ version of your application?*
 
-###
+### Building a 'static' version renders the UI, from your data model, without adding any interactivity (yet!)
 
 ## *Once you have a static application, what do you need to add?*
 
-###
+### To make the UI interactive, you need to use *state* to allow users to change the underlying data model
 
 ## *What are the three questions you can ask to determine if something is state?*
 
-###
+1. Does it remain unchanged over time?
+2. Is it passed in from a parent via props?
+3. Can you compute it based on existing state or props in your component?
 
 ## *How can you identify where state needs to live?*
 
-###
+### For each piece of state in your application, you should identify every component that renders something based on that state, find their closest common parent component, and deciding where the state should live by:
+
+1. Put the state directly into their common parent; or,
+2. Put the state into some component above their common parent; or,
+3. If you can’t find a component where it makes sense to own the state (e.g., in steps 1, or 2), create a new component solely for holding the state and add it somewhere in the hierarchy above the common parent component.
 
 [React Docs - Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 
