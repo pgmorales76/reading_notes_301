@@ -26,7 +26,7 @@
 
 ## *How can you identify where state needs to live?*
 
-### For each piece of state in your application, you should identify every component that renders something based on that state, find their closest common parent component, and deciding where the state should live by:
+### For each piece of state in your application, you should identify every component that renders something based on that state, find their closest common parent component, and decide where the state should live by:
 
 1. Put the state directly into their common parent; or,
 2. Put the state into some component above their common parent; or,
