@@ -4,7 +4,7 @@
 
 ## Why This Topic Matters
 
-### 
+### Having the ability to "think in React" enables the developer to build components/applications, at scale, in an efficient manner
 
 ## *What is the `single responsibility principle` and how does it apply to components?*
 
@@ -36,18 +36,27 @@
 
 ## *What is a “higher-order function”?*
 
-###
+### Functions that operate on other functions, either by taking them as arguments, or by returning them
 
 ## *Explore the `greaterThan` function as defined in the reading. In your own words, what is line 2 of this function doing?*
 
-###
+    function greaterThan(n) {
+    return m => m > n;
+    }
+    let greaterThan10 = greaterThan(10);
+    console.log(greaterThan10(11));
+    // → true
+
+### It's returning a function, which acts upon the parameter from the `greaterThan` function, to produce a value which makes the statement evaluate to `truthy`
 
 ## *Explain how either `map` or `reduce` operates, with regards to higher-order functions.*
 
-###
+### `map()` transforms an array by applying a function to all of its elements, then builds a new array. The new array's elements are "mapped" by the function, and given a different "shape"
 
 [Higher-Order Functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
 
 ## Things I Want to Know More About
 
-###
+### A callback function seems to be similar to a higher-order function. Is this true?
+
+### Would one be correct in saying a callback function is a "lower-order function", in that a callback function appears lower in the code?
