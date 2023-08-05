@@ -6,7 +6,7 @@
 
 ### Functional programming is important because working with immutable data requires more objects to have their own data. What this accomplishes is having the data "specialize", and "focus", in the same way a React component, ideally, has a single function
 
-### Working with modules and `require()` reminds me using `import` to bring components in, from elsewhere, to be used in another component. So, this uses similar practices, with different technologies and across platforms, which makes development much easier, and more efficient
+### Working with modules and `require()` reminds me using `import` and `export` to bring components in, or, send them out, from elsewhere, to be used in another component. So, this uses similar practices, with different technologies and across platforms, which is important because it makes development much easier, and more efficient
 
 ## **Reading**
 
