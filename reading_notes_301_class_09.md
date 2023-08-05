@@ -16,9 +16,11 @@
 
 ## *What is a pure function and how do we know if something is a pure function?*
 
-- It returns the same result if given the same arguments (it is also referred as `deterministic`)
-
-- It does not cause any observable side effects
+> - It returns the same result if given the same arguments (it is also referred as `deterministic`)
+>
+> - It does not cause any observable side effects
+>
+> [Concepts of Functional Programming in Javascript](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 
 ## *What are the benefits of a pure function?*
 
