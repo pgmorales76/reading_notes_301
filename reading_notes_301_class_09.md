@@ -10,7 +10,7 @@
 
 ## *What is functional programming?*
 
-###
+>Functional programming is a programming paradigm — a style of building the structure and elements of computer programs — that treats computation as the evaluation of mathematical functions and avoids changing-state and mutable data. [Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 
 ## *What is a pure function and how do we know if something is a pure function?*
 
