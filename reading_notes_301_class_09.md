@@ -30,7 +30,9 @@
 
 > Basically, if a function consistently yields the same result for the same input, it is referentially transparent.
 >
-> pure functions + immutable data = referential transparency [Concepts of Functional Programming in Javascript](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
+> pure functions + immutable data = referential transparency
+>
+> [Concepts of Functional Programming in Javascript](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 
 [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 
