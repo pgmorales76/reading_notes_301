@@ -4,9 +4,11 @@
 
 ## Why This Topic Matters
 
-###
+### Functional programming is important because working with immutable data requires more objects to have their own data. What this accomplishes is having the data "specialize", and "focus", in the same way a React component, ideally, has a single function
 
-## Reading
+### Working with modules and `require()` reminds me using `import` to bring components in, from elsewhere, to be used in another component. So, this uses similar practices, with different technologies and across platforms, which makes development much easier, and more efficient
+
+## **Reading**
 
 ## *What is functional programming?*
 
@@ -36,26 +38,30 @@
 
 [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 
-## Videos
+## **Videos**
 
 ## *What is a module?*
 
-###
+### A JavaScript file
 
 ## *What does the word ‘require’ do?*
 
-###
+- It uses the global object, in `Node.js`, so you can use it whereever you are.
+
+- It uses the functionality, created in one module, in another module.
+
+- You're **requiring** the module passed to `require()`.
 
 ## *How do we bring another module into the file we are working in?*
 
-###
+### `var another_module = require(another_module);`
 
 ## *What do we have to do to make a module available?*
 
-###
+### `module.exports = variabe name of whatever you want to be made available, outside of this module;`
 
 [Node JS Tutorial for Beginners #6 - Modules and require()](https://www.youtube.com/watch?v=xHLd36QoS4k)
 
 ## Things I Want to Know More About
 
-###
+### In the video, the developer declares a variable, then assigns it a function, as a value. When they invoke the function, they use the name of the variable, with the parentheses notation. Is this a "best practice"? I haven't seen this, before (although, that's not saying much, mind you! LOL). You can invoke a function by calling the variable name, to which that function had been assigned as a value, and use parenthesis on that variable name, which the code treats as invoking a function? This is something I'd like more information on
