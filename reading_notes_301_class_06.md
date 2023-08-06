@@ -60,4 +60,6 @@
 
 ### I find it difficult to believe that having a team of competent people is worse than having a team who “gets along”
 
-###
+### 
+
+### How do I explain REST to my brother, when I don't have a brother?
