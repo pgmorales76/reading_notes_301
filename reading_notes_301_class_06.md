@@ -4,66 +4,60 @@
 
 ## Why This Topic Matters
 
-### Node and npm are important technologies that work in background to enable JavaScript to work on our machines
+### Interacting with a team is what developers do every day. Learning what makes a great team (and what makes an individual a great team member) is necessary to performing any project, large or small
 
-### Pair programming is an important skill, and working environment style, which prepares devs for their everday work life
+###
 
-## *What is node.js?*
+## *To what extent did psychological safety impact your previous work experience?*
 
-### It's a Javascript runtime program that can be used to run JavaScript on the computer
+### Most of my, recent, professional experience has been in a construction site setting. I can’t think of an environment where psychological safety is the least of their concerns!
 
-## *In your own words, what is Chrome’s V8 JavaScript Engine?*
+### Now, to play devil’s advocate, for a moment, I think the reason for that is because physical safety is of paramount importance. Physical injury is more costly on a construction site, than if someone’s feelings get hurt. That’s the way the business is, for better or worse
 
-### It's a JavaScript engine that runs in web browsers. It compiles JavaScript that the computer can run
+### To the extent where working in a team is the environment in which you operate, there may be some give-and-take as to the details of the work being done
 
-## *What does it mean that node is a JavaScript runtime?*
+## *How does this article inform your approach to working with others moving forward?*
 
-### A specific version of the V8 engine
+### When possible, I'll employ the three key factors that contribute to psychologically safe teams:
 
-## *What is npm?*
+> Members speaking in the same proportion, a phenomenon researchers refer to as ‘‘equality in distribution of conversational turn-taking’’; high ‘‘average social sensitivity’’ — a fancy way of saying they were skilled at intuiting how others felt based on their tone of voice, their expressions and other nonverbal cues; and making sure teams had clear goals and creating a culture of dependability.
 
-### Node Package Manager. It's a JavaScript Package Manager and a softwatre registry
+[What Google Learned From Its Quest to Build the Perfect Team](https://www.google.com/amp/mobile.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.amp.html)
 
-## *What version of node are you running on your machine?*
+## *Who is Roy Fielding?*
 
-### `v19.3.0`
+###
 
-## *What version of npm are you running on your machine?*
+## *Why don’t the techniques that we use in this class work well when we need to be able to talk to all of the machines in the world?*
 
-### `9.2.0`
+###
 
-## *What command would you type to install a library/package called ‘jshint’?*
+## *What is the HTTP protocol that Fielding and his friends created?*
 
-### `npm install -g jshint`
+###
 
-## *What is node used for?*
+## *What does a `GET` do?*
 
-### It compiles JavaScript to native machine code that the computer can run and is used to write JavaScript in the most compatible syntax
+###
 
-[An Introduction to Node.js on sitepoint.com](https://www.sitepoint.com/an-introduction-to-node-js)
+## *What does a `POST` do?*
 
-## *What are the 6 reasons for pair programming?*
+###
 
-### Greater efficiency, Engaged collaboration, Learning from fellow students, Social skills, Job interview readiness, and Work environment readiness
+## *What does `PUT` do?*
 
-## *In your experience, which of these reasons have you found most beneficial?*
+###
 
-### I would say the first three have been most beneficial to me because I've never had a job interview for software development, let alone being in a work environment that involved software development
+## *What does `PATCH` do?*
 
-### Also, I fancy myself as having good "social skills", already. However, some would disagree with that sentiment
+###
 
-## *How does pair programming work?*
-
-### Two, or more (I guess you can have more, but not less, than two?), devs work on code. One is the "driver", the person who types out code. The other is the "navigator", the person who tells the "driver" what code to type
-
-[6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
-
-[Geocoding API Docs](https://locationiq.com/)
-
-[Axios Docs](https://www.npmjs.com/package/axios)
-
-[MDN async and await](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Async_await)
+[How I explained REST to my brother](https://gist.github.com/brookr/5977550)
 
 ## Things I Want to Know More About
 
-### Are node and npm technologies we should understand, or should we just know they're used, in the background, and not study it, further?
+### It seems a bit cliché to have one team of “all-stars” and a team of “regular Joe’s”, with the latter having more success. I mean, it seems like a story out of a lame movie. Why did Google choose the teams the way they did? Why not make the teams more similar, than dissimilar?
+
+### I find it difficult to believe that having a team of competent people is worse than having a team who “gets along”
+
+###
