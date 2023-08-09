@@ -76,6 +76,6 @@
 
 ## Things I Want to Know More About
 
-### Is the data structure for the call stack, including FILO, similar with other technologies, or is it different?
+### Is the data structure for the call stack, including LIFO, similar with other technologies, or is it different?
 
 ### Should a debugger statement always be included in your code?
