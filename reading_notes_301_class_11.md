@@ -8,13 +8,13 @@
 
 ## *Fill in the chart below with five differences between SQL and NoSQL databases:*
 
-| :SQL:            |   :NoSQL:       |
-| -----------      | ----------      |
-|   :Difference 1: |  :Difference 1: |
-|   :Difference 2: |  :Difference 2: |
-|   :Difference 3: |  :Difference 3: |
-|   :Difference 4: |  :Difference 4: |
-|   :Difference 5: |  :Difference 5: |
+| SQL          | NoSQL        |
+| :---:        | :---: |
+| Difference 1 | Difference 1 |
+| Difference 2 | Difference 2 |
+| Difference 3 | Difference 3 |
+| Difference 4 | Difference 4 |
+| Difference 5 | Difference 5 |
 
 
 
