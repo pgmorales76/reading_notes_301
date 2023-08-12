@@ -52,35 +52,37 @@
 
 ## *What is a relational database?*
 
-###
+### Database that works with certain assumptions, or in a certain way, connecting data, on different tables, together
 
 ## *What type of structure does a relational database work with?*
 
-###
+### Tables
 
 ## *What is a ‘schema’?*
 
-###
+### Strict requirements for the data you store in table
 
 ## *What is a NoSQL database?*
 
-###
+### A type of database which stores data differently than the strict, tabular, relational-type, in SQL
 
 ## *How does it work?*
 
-###
+### At the top-level, a NoSQL database had "Collections", which within the "Collections" are "Documents". "Documents" look similar to JSON and aren't bound by certain schema
 
 ## *What is inside of a MongoDB database?*
 
-###
+### Collections, which include documents. Documents look similar to object notation
 
 ## *Which is more flexible - SQL or MongoDB? and why.*
 
-###
+### MongoDB because there's no schema implied on the developer. There's tremendous flexibility with the data. However, when using NoSQL, you could have duplicate data
+
+### That being said, it'll come down to what it is your building, or trying to accomplish
 
 ## *What is the disadvantage of a NoSQL database?*
 
-###
+### Being unsure if the data adheres to the format you're using. The price you pay for flexibility is unpredictability
 
 [sql vs nosql](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
 
@@ -90,4 +92,4 @@
 
 ## Things I Want to Know More About
 
-###
+### Because SQL has been around for over sixty years, plus it's lack flexibility, as compared to NoSQL, is it used to the same extent as NoSQL?
