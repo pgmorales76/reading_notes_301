@@ -12,11 +12,11 @@
 
 | SQL          | NoSQL        |
 | :---:        | :---:        |
-| Difference 1 | Difference 1 |
-| Difference 2 | Difference 2 |
-| Difference 3 | Difference 3 |
-| Difference 4 | Difference 4 |
-| Difference 5 | Difference 5 |
+| Primarily called as Relational Databases (RDBMS) | Primarily called as non-relational or distributed database |
+| Table-based databases | Document based, key-value pairs, graph databases, or wide-column stores |
+| Predefined schema | Dynamic schema for unstructured data |
+| Databases are vertically scalable | Horizontally scalable |
+| Uses SQL (Structured Query Language) for defining and manipulating the data | Queries are focused on collection of documents. Sometimes, it is also called as UnQL (Unstructured Query Language). The syntax of using UnQL varies from database to database. |
 
 ## *What kind of data is a good fit for an SQL database?*
 
@@ -48,7 +48,7 @@
 
 ## *What does SQL stand for?*
 
-###
+### Structured Query Language
 
 ## *What is a relational database?*
 
